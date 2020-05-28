@@ -1,0 +1,22 @@
+{
+  "name": "PodsA",
+  "version": "0.1.0",
+  "summary": "A short description of PodsA.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/chexiaohei/PodsA",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chexiaohei": "chelongfei@bering3d.com"
+  },
+  "source": {
+    "git": "https://github.com/chexiaohei/PodsA.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PodsA/Classes/**/*"
+}
